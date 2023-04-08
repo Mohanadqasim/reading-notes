@@ -6,6 +6,7 @@
 
 | **Topic** | **URL** |
 | -------- | -----------|
+| The Growth Mindset |['Alain de Botton on Redefining Success, Carol Dweck on the Growth Mindset & more. '](./The%20Growth%20Mindset/red-the-growth-mindset.md)|
 | SQL |['Introduction to SQL'](./SQL-Practice/read-SQL%20commands.md)|
 | Terminal |['Practice in the Terminal'](./Terminal/read-terminal-practice.md)|
 
