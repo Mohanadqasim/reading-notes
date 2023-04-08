@@ -6,8 +6,9 @@
 
 | **Topic** | **URL** |
 | -------- | -----------|
-| The Growth Mindset |['Alain de Botton on Redefining Success, Carol Dweck on the Growth Mindset & more. '](./The%20Growth%20Mindset/red-the-growth-mindset.md)|
+| The Growth Mindset |['Alain de Botton on Redefining Success, Carol Dweck on the Growth Mindset & more'](./The%20Growth%20Mindset/red-the-growth-mindset.md)|
 | SQL |['Introduction to SQL'](./SQL-Practice/read-SQL%20commands.md)|
+| Data Structures and Algorithms |['Recursion, Data Structures & Big O notation'](./Data%20Structures%20and%20Algorithms/read-data-structures.md)|
 | Terminal |['Practice in the Terminal'](./Terminal/read-terminal-practice.md)|
 
 | **Class #** | **URL** |
