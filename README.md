@@ -15,3 +15,4 @@
 | -------- | -----------|
 | Read-Class-01   |['Pain VS. suffering', 'Big O' & 'Names & Values'](./Read-Class-01.md)|
 | Read-Class-02   |['TDD with Python', 'If name equals main', 'Recursion' & 'Python modules and packages'](./Read-Class-02.md)|
+| Read-Class-03   |['Read & Write Files in Python', 'Python Exceptions', 'File Objects - Reading and Writing to Files'](./Read-Class-03.md)|
