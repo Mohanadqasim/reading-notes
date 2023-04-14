@@ -17,3 +17,4 @@
 | Read-Class-02   |['TDD with Python', 'If name equals main', 'Recursion' & 'Python modules and packages'](./Read-Class-02.md)|
 | Read-Class-03   |['Read & Write Files in Python', 'Python Exceptions', 'File Objects - Reading and Writing to Files'](./Read-Class-03.md)|
 | Read-Class-04   |['Classes and Objects', 'Thinking Recursively' & 'Pytest Fixtures and Coverage'](./Read-Class-04.md)|
+| Read-Class-05   |['Linked Lists' & 'Big O](./Read-Class-05.md)|
