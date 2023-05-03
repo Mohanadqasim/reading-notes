@@ -21,3 +21,4 @@
 |   Read-Class-06   |[Random Module , Risk Analysis & Test Coverage](./Read-Class-06.md)|
 |   Read-Class-07   |[Python Scope](./Read-Class-07.md)|
 |   Read-Class-08   |[List Comprehensions in Python](./Read-class-08.md)|
+|   Read-Class-09   |[Dunder Methods & Statistics - Probability](./Read-Class-09.md)|
