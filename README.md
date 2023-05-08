@@ -24,3 +24,4 @@
 |   Read-Class-09   |[Dunder Methods & Statistics - Probability](./Read-Class-09.md)|
 |   Read-Class-10   |[Stacks and Queues](./Read-Class-10.md)
 |   Read-Class-11   |[Jupyter Lab](./Read-Class-11.md)
+|   Read-Class-11   |[Pandas](./Read-class-12.md)
