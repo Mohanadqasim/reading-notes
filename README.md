@@ -26,3 +26,4 @@
 |   Read-Class-11   |[Jupyter Lab](./Read-Class-11.md)
 |   Read-Class-12   |[Pandas](./Read-class-12.md)
 |   Read-Class-13   |[Linear Regression](./Read-Class-13.md)
+|   Read-Class-14   |[Matplotlib, Seaborn, and Bokeh](./Read-Class-14.md)
