@@ -29,3 +29,4 @@
 |   Read-Class-14   |[Matplotlib, Seaborn, and Bokeh](./Read-Class-14.md)
 |   Read-Class-15   |[Trees in data-structure](./Read-Class-15.md)
 |   Read-Class-16   |[What is Serverless Computing?](./Read-Class-16.md)
+|   Read-Class-17   |[Web Scraping](./Read-Class-17.md)
