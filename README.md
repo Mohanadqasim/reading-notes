@@ -33,3 +33,4 @@
 |   Read-Class-18   |[Cryptography & Caesar Cipher,](./Read-Class-18.md)
 |   Read-Class-19   |[Python Regular Expressions & shutils](./Read-Class-19.md)
 |   Read-Class-26   |[Intro to Django](./Read-Class-26.md)
+|   Read-Class-27   |[Django Models](./Read-Class-27.md)
