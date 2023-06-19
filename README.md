@@ -35,3 +35,4 @@
 |   Read-Class-26   |[Intro to Django](./Read-Class-26.md)
 |   Read-Class-27   |[Django Models](./Read-Class-27.md)
 |   Read-Class-28   |[Django CRUD and Forms](./Read-Class-28.md)
+|   Read-Class-29   |[Django Custom User](./Read-Class-29.md)
