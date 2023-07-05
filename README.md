@@ -38,3 +38,4 @@
 |   Read-Class-29   |[Django Custom User](./Read-Class-29.md)
 |   Read-Class-30   |[Hash Tables](./Read-Class-30.md)
 |   Read-Class-31   |[Django REST Framework & Docker](./Read-Class-31.md)
+|   Read-Class-32   |[Permissions & Postgresql](./Read-Class-32.md)
