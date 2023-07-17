@@ -41,4 +41,5 @@
 |   Read-Class-32   |[Permissions & Postgresql](./Read-Class-32.md)
 |   Read-Class-33   |[Authentication & Production Server](./Read-Class-33.md)
 |   Read-Class-34   |[API Deployment](./Read-Class-34.md)
-|   Read-Class-34   |[Graphs](./Read-Class-35.md)
+|   Read-Class-35   |[Graphs](./Read-Class-35.md)
+|   Read-Class-36   |[DSA Review](./Read-Class-36.md)
