@@ -44,3 +44,4 @@
 |   Read-Class-35   |[Graphs](./Read-Class-35.md)
 |   Read-Class-36   |[DSA Review](./Read-Class-36.md)
 |   Read-Class-37   |[React 1](./Read-Class-37.md)
+|   Read-Class-38   |[React 2](./Read-Class-38.md)
