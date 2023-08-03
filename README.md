@@ -48,3 +48,4 @@
 |   Read-Class-39   |[React 3](./Read-Class-39.md)
 |   Read-Class-41   |[React 4](./Read-Class-41.md)
 |   Read-Class-42   |[Ethics](./Read-Class-42.md)
+|   Read-Class-43   |[Pythonisms](./Read-Class-43.md)
